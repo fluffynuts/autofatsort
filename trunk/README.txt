@@ -27,8 +27,8 @@ PRE-REQUISITES:
 
 Actual installation:
 
-1) copy devmon and devmon_local to somewhere in your home (I have a scripts
-  folder in my home folder, for example)
+1) copy devmon, devmon_local and sort_on_unmount to somewhere in your home 
+  (I have a scripts  folder in my home folder, for example)
 2) in KDE, launch the Autostarts manager (click the "K" and type "autostarts"
   to find it) and add devmon_local as a startup script. If you're not using KDE
   then you can use the startup manager for your desktop to do this (GNOME and
